@@ -19,20 +19,12 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        My fascination with computer science started in high school when I
-        volunteered for a <span className="font-medium">fundraising event</span>{" "}
-        where a team member, a computer science student, spearheaded our online
-        efforts. Witnessing how technology connected us with people worldwide
-        and facilitated global fundraising left an indelible impression on me.
+        I create elegant solutions to complex problems through clean code and intuitive design. 
+        With expertise spanning full-stack development, data visualization, and cloud architecture, 
+        I build tools that transform how businesses operate.
       </p>
       <p>
-        I did my Bachelor's in Information Technology, worked as a{" "}
-        <span className="font-medium">Software Engineer</span>, and now I'm
-        pursuing my Master's in Applied Computer Science at Dalhousie
-        University.{" "}
-        <span className="italic">My favorite part of programming</span> is the
-        problem-solving aspect. I <span className="underline">love</span> the
-        feeling of finally figuring out a solution to a problem.
+      
       </p>
       <p>
         My core stack is <span className="font-medium">React, Angular, and Next.js</span>. I
